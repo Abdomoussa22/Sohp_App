@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Sohp_App/static/js/main.62a29f46.chunk.js",
+    "main.js.map": "/Sohp_App/static/js/main.62a29f46.chunk.js.map",
+    "runtime-main.js": "/Sohp_App/static/js/runtime-main.c1653153.js",
+    "runtime-main.js.map": "/Sohp_App/static/js/runtime-main.c1653153.js.map",
+    "static/js/2.8b1f522a.chunk.js": "/Sohp_App/static/js/2.8b1f522a.chunk.js",
+    "static/js/2.8b1f522a.chunk.js.map": "/Sohp_App/static/js/2.8b1f522a.chunk.js.map",
+    "index.html": "/Sohp_App/index.html",
+    "precache-manifest.9d4f38282b0628f2d152b715ca1f7b6e.js": "/Sohp_App/precache-manifest.9d4f38282b0628f2d152b715ca1f7b6e.js",
+    "service-worker.js": "/Sohp_App/service-worker.js",
+    "static/js/2.8b1f522a.chunk.js.LICENSE.txt": "/Sohp_App/static/js/2.8b1f522a.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/Sohp_App/static/media/commerce.422fec10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1653153.js",
+    "static/js/2.8b1f522a.chunk.js",
+    "static/js/main.62a29f46.chunk.js"
+  ]
+}
